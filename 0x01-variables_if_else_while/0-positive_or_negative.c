@@ -7,8 +7,9 @@
  * main - main function
  *
  * Return: always 0
- */
-
+ *
+ * /
+<F2><F2><F2><F2><F2><F2><F2>
 int main(void)
 {
 	int n;
