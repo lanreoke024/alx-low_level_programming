@@ -1,1 +1,1 @@
-Hello World Project in C language 
+Project in C language 
